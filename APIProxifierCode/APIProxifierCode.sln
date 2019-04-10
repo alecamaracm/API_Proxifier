@@ -5,7 +5,7 @@ VisualStudioVersion = 15.0.28307.329
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIProxifierBaseServer", "APIProxifierBaseServer\APIProxifierBaseServer.csproj", "{83145300-B3D2-457E-97D8-5758B2E8DDAC}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIProxifierBaseClient", "APIProxifierBaseClient\APIProxifierBaseClient.csproj", "{452C38DC-C7A0-4751-9682-5AAA5DCDB7A2}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "APIProxifierBaseClient", "APIProxifierBaseClient\APIProxifierBaseClient.csproj", "{74C2682E-9256-421B-842A-63C4F8C874EE}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -17,10 +17,10 @@ Global
 		{83145300-B3D2-457E-97D8-5758B2E8DDAC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{83145300-B3D2-457E-97D8-5758B2E8DDAC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{83145300-B3D2-457E-97D8-5758B2E8DDAC}.Release|Any CPU.Build.0 = Release|Any CPU
-		{452C38DC-C7A0-4751-9682-5AAA5DCDB7A2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{452C38DC-C7A0-4751-9682-5AAA5DCDB7A2}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{452C38DC-C7A0-4751-9682-5AAA5DCDB7A2}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{452C38DC-C7A0-4751-9682-5AAA5DCDB7A2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{74C2682E-9256-421B-842A-63C4F8C874EE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{74C2682E-9256-421B-842A-63C4F8C874EE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{74C2682E-9256-421B-842A-63C4F8C874EE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{74C2682E-9256-421B-842A-63C4F8C874EE}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
